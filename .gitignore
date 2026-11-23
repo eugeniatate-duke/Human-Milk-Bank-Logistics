@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Word temp files and LaTeX build leftovers
+~$*
+*.aux
+*.log
+*.out
+
+# Solver logs and scratch output
+*.lp
+*.mps
+*.sol
+
+# course data
+data/*.xlsx 
