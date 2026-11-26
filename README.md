@@ -2,6 +2,8 @@
 
 This project builds a one-week milk collection plan for the Oklahoma Mothers' Milk Bank (OMMB), a nonprofit that gathers frozen donor milk from 36 depots across Oklahoma, Kansas, Arkansas, and Missouri for medically fragile infants. With one driver and one truck limited to 12 hours of driving per day, each depot must be served exactly once during a Monday–Friday week, either by a truck pickup or by a direct shipment, at the lowest cost in driver labor, fuel, and shipping. We solve it two ways using the same rules and cost inputs: a simple, solver-free cluster-first, route-second algorithm in Python, and a mixed-integer optimization model in Pyomo that chooses which depots ship and the stop order of each route. We compare the two plans on cost, driving time, and operational feasibility, and note the limits of a one-week analysis.
 
+**Video Presentation:** https://youtu.be/lZutYoM-ino
+
 Built for AIPI 530 (Optimization), Fall 2026, by Eugenia Tate.
 
 ## Results
