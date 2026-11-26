@@ -21,7 +21,7 @@ Solution 2 is feasible but not proven optimal: HiGHS stopped at its 30-minute ti
 
 - `PartA/` : customer document, algorithm document, and the Part A notebook (simple algorithm)
 - `PartB/` : customer document, mathematical formulation, and the Part B notebook (Pyomo model)
-- `Slides_Case_Study_1.pdf` : slide deck covering both solutions
+- `Slides_Case_Study.pdf` : slide deck covering both solutions
 - `requirements.txt` : Python packages used
 - `data/` : input Excel files (not included in the public repo)
 
